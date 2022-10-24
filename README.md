@@ -22,4 +22,4 @@ Utilizar o Dicionário de Dados
 Estar seguro na disciplina Banco de Dados
 Realizar downloads de softwares relacionados a banco de dados
 Utilizar softwares de modelagem
-Aplicar seguramente os relacionamentos 1 x 1 , 1 x N, N x N, Generalização e Autorelacionamento, entendendo o porquê de cada um
+Aplicar seguramente os relacionamentos 1 x 1 , 1 x N, N x N, Generalização e Autorelacionamento, entendendo o porquê de cada um.
