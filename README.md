@@ -3,6 +3,7 @@
 #### Business Intelligence, SQL Server, MySQL, Oracle, T-SQL e PLSQL! 
 
 Um pouquinho do curso:
+
 Entender a diferença entre um Administrador de Dados e um DBA
 Criar bancos de dados consistentes do ponto de infraestrutura e modelagem.
 Instalar o Banco de Dados MySql
