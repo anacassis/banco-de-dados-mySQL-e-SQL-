@@ -1,4 +1,4 @@
-### Curso completo de banco de dados e SQL sem mistério.
+### Curso completo de banco de dados e SQL sem mistério da Udemy com Felipe MAFRA.
 
 #### Business Intelligence, SQL Server, MySQL, Oracle, T-SQL e PLSQL! 
 
